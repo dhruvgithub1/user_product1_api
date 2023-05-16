@@ -30,7 +30,7 @@
 },
 {
 "id": "thapaserialnoc",
-"name": "Jaggery Coated Banana Chips",
+"name": "Jaggery Coated Banana",
 "company": "dell",
 "price": 32900,
 "colors": [
@@ -58,7 +58,7 @@
 },
 {
 "id": "thapaserialnoe",
-"name": "Yellow handspun handwoven",
+"name": "Pure Handwoven fabric",
 "company": "apple",
 "price": 130000,
 "colors": [
@@ -115,7 +115,7 @@
 },
 {
 "id": "thapaserialnoi",
-"name": "Borma Cashew Nuts 400gm",
+"name": "Borma Cashew 400gm",
 "price": 66700,
 "company": "apple",
 "colors": [
@@ -128,7 +128,7 @@
 },
 {
 "id": "thapaserialnoj",
-"name": "Barosi Cultured Cow Ghee, 1 L",
+"name": "Cultured Cow Ghee 1 L",
 "company": "apple",
 "price": 140000,
 "colors": [
@@ -155,7 +155,7 @@
 },
 {
 "id": "thapaserialnol",
-"name": "Salted and Roasted Cashew 400g",
+"name": "Salted Cashew 400g",
 "price": 79900,
 "company": "samsung",
 "colors": [
