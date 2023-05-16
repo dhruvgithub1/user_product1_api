@@ -100,29 +100,29 @@
 },
 {
 "id": "thapaserialnoh",
-"name": "Accessories",
-"price": 1099999,
+"name": "Village Cow Milk",
+"price": 8000,
 "company": "lenova",
 "colors": [
 "#000",
 "#CDD0D0"
 ],
-"image": "https://images.pexels.com/photos/3178938/pexels-photo-3178938.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-"description": "The accessories is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+"image": "https://feelnatural.in/wp-content/uploads/2020/11/1_1-white-bg-shadow-designify.png",
+"description": "We bring you fresh raw milk. Straight from our indigenous breed of cows to your house. Simply put, we take the milk, just as our healthy cows give us and put them into hygienic glass bottles, seal them and deliver them over to your door step. All this very minimal time, so that you can enjoy the goodness of our fresh and creamy milk. This is so unlike the usual homogenized and pasteurised milk that we consume today. And even unlike the raw milk that we get today from local sources.",
 "category": "accessories",
 "featured": true,
 "shipping": true
 },
 {
 "id": "thapaserialnoi",
-"name": "Iwatch",
-"price": 39999,
+"name": "Borma Cashew Nuts 400gm",
+"price": 66700,
 "company": "apple",
 "colors": [
 "#000000"
 ],
-"image": "https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-"description": "This watch is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+"image": "https://cdn.shopify.com/s/files/1/0515/0939/5615/products/skin-cashew_1024x1024@2x.jpg?v=1630393886",
+"description": "My Village Borma Cashew is unpeeled cashew with its skin on with a tinge of the delectable raw flavor. Closely monitored processing ensures that there are no sticky skins or over roasting. The process makes sure that only the flavor of borma cashew is experienced.",
 "category": "watch",
 "shipping": true
 },
