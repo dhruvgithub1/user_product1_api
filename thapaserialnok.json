@@ -1,0 +1,53 @@
+{
+"id": "thapaserialnok",
+"name": "Almond, 400g",
+"company": "rolex",
+"price": 40000,
+"colors": [
+"#000000",
+"#CDD0D0"
+],
+"description": "My Village brings you the finest grade of Indian almonds direct from the source to your availability with a delicacy you can trust. Almonds are prized throughout the world for their delicious taste, crunchy texture, and, increasingly, for their nutritional value. India is the world’s largest producer of almonds.",
+"category": "Dry Fruits",
+"stock": 6,
+"reviews": 60,
+"stars": 4.8,
+"image": [
+{
+"id": "randomid1",
+"width": 1080,
+"height": 650,
+"url": "https://cdn.shopify.com/s/files/1/0515/0939/5615/products/01_a5587fca-a089-4cd1-be4b-d7dbb4949ffd_540x.jpg?v=1640673866",
+"filename": "prod-1.png",
+"size": 1080,
+"type": "image/png"
+},
+{
+"id": "randomid2",
+"width": 1080,
+"height": 650,
+"url": " https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+"filename": "prod-2.png",
+"size": 1080,
+"type": "image/png"
+},
+{
+"id": "randomid3",
+"width": 1080,
+"height": 650,
+"url": " https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+"filename": "prod-3.png",
+"size": 1080,
+"type": "image/png"
+},
+{
+"id": "randomid4",
+"width": 1080,
+"height": 650,
+"url": "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+"filename": "prod-4.png",
+"size": 1080,
+"type": "image/png"
+}
+]
+}
