@@ -1,0 +1,54 @@
+{
+"id": "thapaserialnog",
+"name": "Ripened Kerala Banana",
+"company": "asus",
+"price": 41900,
+"colors": [
+"#CDD0D0",
+"#000"
+],
+"description": "My Village all Natural Healthy Snack made from organic banana fruits. Thin crunchy slices are prepared from natural wood pressed coconut oil. This snack product is very healthy and tasty, contains No added preservatives or other chemical additives for taste, color or flavor. Natural Healthy Snack made from organic ripened banana fruits. Thin crunchy slices prepared from natural wood pressed coconut oil.",
+"category": "Homemade Snacks",
+"shipping": true,
+"stock": 6,
+"reviews": 23,
+"stars": 3.7,
+"image": [
+{
+"id": "randomid1",
+"width": 1080,
+"height": 650,
+"url": "https://cdn.shopify.com/s/files/1/0515/0939/5615/products/Ripe-Kerala-Banana-Chips-Snack_1024x1024@2x.jpg?v=1612247586",
+"filename": "prod-1.png",
+"size": 1080,
+"type": "image/png"
+},
+{
+"id": "randomid2",
+"width": 1080,
+"height": 650,
+"url": " https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+"filename": "prod-2.png",
+"size": 1080,
+"type": "image/png"
+},
+{
+"id": "randomid3",
+"width": 1080,
+"height": 650,
+"url": " https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+"filename": "prod-3.png",
+"size": 1080,
+"type": "image/png"
+},
+{
+"id": "randomid4",
+"width": 1080,
+"height": 650,
+"url": "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+"filename": "prod-4.png",
+"size": 1080,
+"type": "image/png"
+}
+]
+}
