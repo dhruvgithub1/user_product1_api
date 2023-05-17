@@ -2,7 +2,7 @@
 {
 "id": "thapaserialnoa",
 "name": "Wild Dark Honey",
-"company": "apple",
+"company": "Village",
 "price": 39500,
 "colors": [
 "#ff0000",
@@ -11,13 +11,13 @@
 ],
 "image": "https://cdn.shopify.com/s/files/1/0515/0939/5615/products/Wayanad-Honey_1024x1024@2x.jpg?v=1608119614",
 "description": "My Village Forest (wild bee) honey is 100% Natural organic product sourced from Wayanad Deep Forest (Kerala). The Quality and taste of honey depend upon the flower visited by bees. This, in turn, depends on pasturage. As bees feed on the nectar produced by the flowers. Raw unprocessed honey may contain white foam on top. It is light flavorful and packed with air bubbles that have trapped some of the wondrous stuff that is in raw honey: pollen, propolis, wax and of course raw honey. My Village Wild honey from Waynad Forest is Unprocessed, Unheated, Raw honey just filtered using a cotton cloth.",
-"category": "mobile",
+"category": "Honey",
 "featured": true
 },
 {
 "id": "thapaserialnob",
 "name": "Amla Honey (450g)",
-"company": "samsung",
+"company": "Village",
 "price": 41000,
 "colors": [
 "#000",
@@ -25,13 +25,13 @@
 ],
 "image": "https://cdn.shopify.com/s/files/1/0515/0939/5615/products/Honey-Amla_1024x1024@2x.jpg?v=1608119537",
 "description": "This herbal product is made by a perfect amalgamation of purest possible honey and natural gooseberry. This magical combination is a strong immune booster. Also prevents aging, Strengthens heart and digestive system, manages cholesterol level, acidity, gastritis, protects from infection and respiratory disorders.",
-"category": "mobile",
+"category": "Honey",
 "shipping": true
 },
 {
 "id": "thapaserialnoc",
 "name": "Jaggery Coated Banana Chips",
-"company": "dell",
+"company": "Village",
 "price": 32900,
 "colors": [
 "#22D3EF",
@@ -39,12 +39,12 @@
 ],
 "image": "https://cdn.shopify.com/s/files/1/0515/0939/5615/products/kerala-sharkkara-upperi_1024x1024@2x.jpg?v=1630319690",
 "description": "Sharkkara Varatti or Sharkkara upperi is a Kerala traditional snack, which is also called as sweet banana chips prepared  with raw banana, jaggery, Sunflower oil, Ginger and cardamom powder. My Village Sharkkara varatti is very tasty and healthy. We never add any kind of preservatives or chemical additives for taste or flavor.",
-"category": "laptop"
+"category": "Homemade Snacks"
 },
 {
 "id": "thapaserialnod",
 "name": "Black Forest Honey",
-"company": "nokia",
+"company": "Village",
 "price": 64900,
 "colors": [
 "#000",
@@ -53,13 +53,13 @@
 ],
 "image": "https://cdn.shopify.com/s/files/1/0515/0939/5615/products/bfh-1_1024x1024@2x.jpg?v=1608119692",
 "description": "My Village Dark Honey, also known as Black Wild Honey, is a neat collection of large wild bees found in the forests of Nilambur (Kerala). This honey is made by bees, known as Apis cerana indica nesting under the ground in deep forest regions. This honey is very dark in colour and graded in the seventh category of dark colour.",
-"category": "mobile",
+"category": "Honey",
 "shipping": true
 },
 {
 "id": "thapaserialnoe",
 "name": "Yellow handspun handwoven",
-"company": "apple",
+"company": "Village",
 "price": 130000,
 "colors": [
 "#000",
@@ -73,7 +73,7 @@
 {
 "id": "thapaserialnof",
 "name": "Kerala Banana Chips",
-"company": "apple",
+"company": "Village",
 "price": 41900,
 "colors": [
 "#000000",
@@ -81,13 +81,13 @@
 ],
 "image": "https://cdn.shopify.com/s/files/1/0515/0939/5615/products/Kerala-Banana-Chips_3392cfa8-040d-4d1c-aba0-eaac7f71b76d_1024x1024@2x.jpg?v=1612249177",
 "description": "My Village all Natural Healthy Snack made from organic banana fruits. Thin crunchy slices prepared from natural wood pressed coconut oil. This snack product is very healthy and tasty. No added preservatives or other chemical additives for taste, color or flavor.",
-"category": "laptop",
+"category": "Homemade Snacks",
 "shipping": true
 },
 {
 "id": "thapaserialnog",
 "name": "Ripened Kerala Banana",
-"company": "asus",
+"company": "Village",
 "price": 41900,
 "colors": [
 "#CDD0D0",
@@ -95,14 +95,14 @@
 ],
 "image": "https://cdn.shopify.com/s/files/1/0515/0939/5615/products/Ripe-Kerala-Banana-Chips-Snack_1024x1024@2x.jpg?v=1612247586",
 "description": "My Village all Natural Healthy Snack made from organic banana fruits. Thin crunchy slices are prepared from natural wood pressed coconut oil. This snack product is very healthy and tasty, contains No added preservatives or other chemical additives for taste, color or flavor. Natural Healthy Snack made from organic ripened banana fruits. Thin crunchy slices prepared from natural wood pressed coconut oil.",
-"category": "laptop",
+"category": "Homemade Snacks",
 "shipping": true
 },
 {
 "id": "thapaserialnoh",
 "name": "Village Cow Milk",
 "price": 8000,
-"company": "lenova",
+"company": "Village",
 "colors": [
 "#000",
 "#CDD0D0"
@@ -117,7 +117,7 @@
 "id": "thapaserialnoi",
 "name": "Borma Cashew Nuts 400gm",
 "price": 66700,
-"company": "apple",
+"company": "Village",
 "colors": [
 "#000000"
 ],
@@ -129,7 +129,7 @@
 {
 "id": "thapaserialnoj",
 "name": "Barosi Cultured Cow Ghee, 1 L",
-"company": "apple",
+"company": "Village",
 "price": 140000,
 "colors": [
 "#ff0000",
@@ -143,7 +143,7 @@
 {
 "id": "thapaserialnok",
 "name": "Almond, 400g",
-"company": "rolex",
+"company": "Village",
 "price": 40000,
 "colors": [
 "#000000",
@@ -157,7 +157,7 @@
 "id": "thapaserialnol",
 "name": "Salted and Roasted Cashew 400g",
 "price": 79900,
-"company": "samsung",
+"company": "Village",
 "colors": [
 "#22D3EF",
 "#ff0000",
