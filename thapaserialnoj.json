@@ -1,0 +1,54 @@
+{
+"id": "thapaserialnoj",
+"name": "Cultured Cow Ghee, 1 L",
+"company": "apple",
+"price": 140000,
+"colors": [
+"#ff0000",
+"#22D3EF",
+"#000000"
+],
+"description": "Barosi A2 Desi Cow Ghee is made using fresh & pure Rathi and Sahiwal Cow milk procured from our farms using the Bilona method. The milk is converted into curd and the curd is slowly churned to make butter. The butter is then refined-carbohydrates, proteins, casein, lactose, impurities and water are removed, leaving only pure fat or oil.",
+"category": "Dairy Products",
+"stock": 6,
+"reviews": 23,
+"stars": 4.2,
+"image": [
+{
+"id": "randomid1",
+"width": 1080,
+"height": 650,
+"url": "https://www.bigbasket.com/media/uploads/p/l/40302894_2-barosi-cultured-cow-ghee.jpg",
+"filename": "prod-1.png",
+"size": 1080,
+"type": "image/png"
+},
+{
+"id": "randomid2",
+"width": 1080,
+"height": 650,
+"url": " https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+"filename": "prod-2.png",
+"size": 1080,
+"type": "image/png"
+},
+{
+"id": "randomid3",
+"width": 1080,
+"height": 650,
+"url": " https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+"filename": "prod-3.png",
+"size": 1080,
+"type": "image/png"
+},
+{
+"id": "randomid4",
+"width": 1080,
+"height": 650,
+"url": "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+"filename": "prod-4.png",
+"size": 1080,
+"type": "image/png"
+}
+]
+}
