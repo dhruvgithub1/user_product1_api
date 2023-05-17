@@ -1,0 +1,54 @@
+{
+"id": "thapaserialnoe",
+"name": "Handspun Handwoven Fabric",
+"company": "apple",
+"price": 200999,
+"colors": [
+"#000",
+"#CDD0D0"
+],
+"description": "A Fabric that became the symbol of India's Freedom Struggle, Nearly after seven decades of India's independence, Khadi has still navigated its place in the closet of every Indian household. "Khadi for India, Khadi for all - with this vision, Khadi India brings to you a range of handcrafted cotton fabric in attractive prints and soothing colours.",
+"category": "Fabrics",
+"shipping": true,
+"stock": 4,
+"reviews": 28,
+"stars": 2.8,
+"image": [
+{
+"id": "randomid1",
+"width": 1080,
+"height": 650,
+"url": "https://ekhadiindia.s3.ap-south-1.amazonaws.com/uploads/products/photos/WNiE9ZbU9pHZYRQa886qf9inhddZpfm8qadHMtmN.jpg",
+"filename": "prod-1.png",
+"size": 1080,
+"type": "image/png"
+},
+{
+"id": "randomid2",
+"width": 1080,
+"height": 650,
+"url": " https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+"filename": "prod-2.png",
+"size": 1080,
+"type": "image/png"
+},
+{
+"id": "randomid3",
+"width": 1080,
+"height": 650,
+"url": " https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+"filename": "prod-3.png",
+"size": 1080,
+"type": "image/png"
+},
+{
+"id": "randomid4",
+"width": 1080,
+"height": 650,
+"url": "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+"filename": "prod-4.png",
+"size": 1080,
+"type": "image/png"
+}
+]
+}
