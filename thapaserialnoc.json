@@ -1,0 +1,53 @@
+{
+"id": "thapaserialnoc",
+"name": "Jaggery Coated Banana",
+"company": "dell",
+"price": 32900,
+"colors": [
+"#22D3EF",
+"#CDD0D0"
+],
+"description": "https://cdn.shopify.com/s/files/1/0515/0939/5615/products/kerala-sharkkara-upperi_1024x1024@2x.jpg?v=1630319690",
+"category": "Homemade Snacks",
+"stock": 12,
+"reviews": 28,
+"stars": 4.2,
+"image": [
+{
+"id": "randomid1",
+"width": 1080,
+"height": 650,
+"url": "https://cdn.shopify.com/s/files/1/0515/0939/5615/products/kerala-sharkkara-upperi_1024x1024@2x.jpg?v=1630319690",
+"filename": "prod-1.png",
+"size": 1080,
+"type": "image/png"
+},
+{
+"id": "randomid2",
+"width": 1080,
+"height": 650,
+"url": " https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+"filename": "prod-2.png",
+"size": 1080,
+"type": "image/png"
+},
+{
+"id": "randomid3",
+"width": 1080,
+"height": 650,
+"url": " https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+"filename": "prod-3.png",
+"size": 1080,
+"type": "image/png"
+},
+{
+"id": "randomid4",
+"width": 1080,
+"height": 650,
+"url": "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+"filename": "prod-4.png",
+"size": 1080,
+"type": "image/png"
+}
+]
+}
