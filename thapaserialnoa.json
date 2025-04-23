@@ -1,6 +1,6 @@
 {
 "id": "thapaserialnoa",
-"name": "Wild Dark Honey",
+"name": "C++ Programming Language",
 "company": "Village",
 "price": 39500,
 "colors": [
@@ -8,7 +8,7 @@
 "#000000",
 "#CDD0D0"
 ],
-"description": "My Village Forest (wild bee) honey is 100% Natural organic product sourced from Wayanad Deep Forest (Kerala). The Quality and taste of honey depend upon the flower visited by bees. This, in turn, depends on pasturage. As bees feed on the nectar produced by the flowers. Raw unprocessed honey may contain white foam on top. It is light flavorful and packed with air bubbles that have trapped some of the wondrous stuff that is in raw honey: pollen, propolis, wax and of course raw honey. My Village Wild honey from Waynad Forest is Unprocessed, Unheated, Raw honey just filtered using a cotton cloth.",
+"description": "The definitive book on C++ by the creator of C++, The C++ Programming Language teaches one of the most widely-used, general-purpose programming languages. At an advanced pace this book teaches how to work with compilers updated for the new standard. Students heading toward domains where mid-size to large applications are being developed - networking, finance, graphics, and games - will find this book an excellent learning tool.",
 "category": "Honey",
 "featured": true,
 "stock": 5,
@@ -19,7 +19,7 @@
 "id": "randomid1",
 "width": 1080,
 "height": 650,
-"url": " https://cdn.shopify.com/s/files/1/0515/0939/5615/products/Wayanad-Honey_1024x1024@2x.jpg?v=1608119614",
+"url": " https://f.media-amazon.com/images/I/61RzCIAcAvL._SL1360_.jpg",
 "filename": "prod-1.png",
 "size": 1080,
 "type": "image/png"
